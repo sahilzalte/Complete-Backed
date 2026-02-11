@@ -1,5 +1,24 @@
 {
+  "name": "complete-backed",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/sahilzalte/Complete-Backed.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "type": "commonjs",
+  "bugs": {
+    "url": "https://github.com/sahilzalte/Complete-Backed/issues"
+  },
+  "homepage": "https://github.com/sahilzalte/Complete-Backed#readme",
   "dependencies": {
-    "cat-me": "^1.0.3"
+    "express": "^5.2.1"
   }
 }
